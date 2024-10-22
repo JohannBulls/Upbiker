@@ -261,5 +261,10 @@ Tests the `InventoryService`, which contains the business logic for product mana
 - **Calculate Total Value**: Verifies that the total value of all products is calculated accurately.
 
 These tests help ensure that both the controller and service layers work as intended.
+
+### Video
+
+[Video Youtube](https://youtu.be/WMHsQ8DKZuw)
+
 ## License
 This project is licensed under the MIT [License](LICENSE)
