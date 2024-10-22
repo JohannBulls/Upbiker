@@ -10,10 +10,10 @@ import java.util.List;
 
 /**
  * REST API for Product Inventory Management.
- * Base URL: /api/inventario
+ * Base URL: /api/inventory
  */
 @RestController
-@RequestMapping("/api/inventario")
+@RequestMapping("/api/inventory")
 public class ProductoController {
 
     @Autowired
